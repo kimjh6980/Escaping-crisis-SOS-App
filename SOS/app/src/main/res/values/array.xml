@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="msgset_array">
+        <item>지금 저는</item>
+        <item>현재 위치는</item>
+        <item>여기는</item>
+    </string-array>
+</resources>
